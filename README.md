@@ -35,3 +35,8 @@ make
 ./fractal
 
 
+#### TODO: Use camera Stream::
+
+https://r3dux.org/2012/01/how-to-convert-an-opencv-cvmat-to-an-opengl-texture/
+
+
